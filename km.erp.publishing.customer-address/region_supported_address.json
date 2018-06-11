@@ -1,0 +1,30 @@
+{
+    "region": {
+        "region_code": "NC",
+        "region": "North Carolina",
+        "region_id": 44
+    },
+    "region_id": 44,
+    "country_id": "US",
+    "street": "Stockbridge Dr 100",
+    "company": "",
+    "telephone": "9991767173",
+    "fax": "",
+    "postcode": "27576",
+    "city": "Selma",
+    "firstname": "Volodymyr",
+    "lastname": "Vygovskyi",
+    "middlename": "",
+    "prefix": "",
+    "suffix": "",
+    "vat_id": "",
+    "default_shipping": true,
+    "default_billing": false,
+    "extension_attributes": {
+        "increment_id": "",
+        "vat_is_valid": "",
+        "vat_request_id": "",
+        "vat_request_date": "",
+        "vat_request_success": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": 36,
+    "sku": "asset-test-product-2",
+    "name": "Asset test product 2",
+    "attribute_set_id": 4,
+    "price": 20,
+    "status": 1,
+    "visibility": 4,
+    "type_id": "simple",
+    "created_at": "2018-06-07 14:38:52",
+    "updated_at": "2018-06-07 14:39:15",
+    "product_links": [],
+    "options": [],
+    "media_gallery_entries": [],
+    "tier_prices": [],
+    "custom_attributes": [
+        {
+            "attribute_code": "description",
+            "value": "sample description"
+        },
+        {
+            "attribute_code": "short_description",
+            "value": "sample short description"
+        },
+        {
+            "attribute_code": "meta_title",
+            "value": "Asset test product 2"
+        },
+        {
+            "attribute_code": "meta_keyword",
+            "value": "Asset test product 2"
+        },
+        {
+            "attribute_code": "meta_description",
+            "value": "Asset test product 2 sample description"
+        },
+        {
+            "attribute_code": "category_ids",
+            "value": [
+                "4"
+            ]
+        },
+        {
+            "attribute_code": "options_container",
+            "value": "container2"
+        },
+        {
+            "attribute_code": "required_options",
+            "value": false
+        },
+        {
+            "attribute_code": "has_options",
+            "value": false
+        },
+        {
+            "attribute_code": "url_key",
+            "value": "asset-test-product-2"
+        },
+        {
+            "attribute_code": "tax_class_id",
+            "value": "2"
+        },
+        {
+            "attribute_code": "gift_message_available",
+            "value": "2"
+        },
+        {
+            "attribute_code": "gift_wrapping_available",
+            "value": "2"
+        },
+        {
+            "attribute_code": "is_returnable",
+            "value": "2"
+        },
+        {
+            "attribute_code": "enquire_only",
+            "value": "0"
+        },
+        {
+            "attribute_code": "integration_asset_id",
+            "value": "sample-asset-id-2"
+        },
+        {
+            "attribute_code": "integration_asset_type",
+            "value": "sample-asset-type-2"
+        }
+    ]
+}

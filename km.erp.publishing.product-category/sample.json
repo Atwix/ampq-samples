@@ -1,0 +1,85 @@
+{
+    "product_count": 2,
+    "id": 11,
+    "parent_id": 3,
+    "name": "Licenses",
+    "is_active": true,
+    "position": 7,
+    "level": 3,
+    "children": "",
+    "created_at": "2018-06-11 11:22:54",
+    "updated_at": "2018-06-11 11:22:54",
+    "path": "1\/2\/3\/11",
+    "available_sort_by": [],
+    "include_in_menu": true,
+    "custom_attributes": [
+        {
+            "attribute_code": "description",
+            "value": "<p>Licenses<\/p>"
+        },
+        {
+            "attribute_code": "image",
+            "value": false
+        },
+        {
+            "attribute_code": "meta_title",
+            "value": ""
+        },
+        {
+            "attribute_code": "meta_keywords",
+            "value": ""
+        },
+        {
+            "attribute_code": "meta_description",
+            "value": ""
+        },
+        {
+            "attribute_code": "display_mode",
+            "value": "PRODUCTS"
+        },
+        {
+            "attribute_code": "landing_page",
+            "value": ""
+        },
+        {
+            "attribute_code": "is_anchor",
+            "value": "1"
+        },
+        {
+            "attribute_code": "path",
+            "value": "1\/2\/3\/11"
+        },
+        {
+            "attribute_code": "custom_design",
+            "value": ""
+        },
+        {
+            "attribute_code": "page_layout",
+            "value": ""
+        },
+        {
+            "attribute_code": "custom_layout_update",
+            "value": ""
+        },
+        {
+            "attribute_code": "children_count",
+            "value": 0
+        },
+        {
+            "attribute_code": "custom_use_parent_settings",
+            "value": "0"
+        },
+        {
+            "attribute_code": "custom_apply_to_products",
+            "value": "0"
+        },
+        {
+            "attribute_code": "url_key",
+            "value": "licenses"
+        },
+        {
+            "attribute_code": "url_path",
+            "value": "hypervsn-shop\/licenses"
+        }
+    ]
+}

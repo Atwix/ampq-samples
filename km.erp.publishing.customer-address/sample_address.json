@@ -1,0 +1,25 @@
+{
+    "region_id": 0,
+    "country_id": "DE",
+    "street": "Langenhorner Chaussee 600",
+    "company": "",
+    "telephone": "23423423423",
+    "fax": "",
+    "postcode": "22419",
+    "city": "Hamburg",
+    "firstname": "Volodymyr",
+    "lastname": "Vygovskyi",
+    "middlename": "",
+    "prefix": "",
+    "suffix": "",
+    "vat_id": "",
+    "default_shipping": true,
+    "default_billing": true,
+    "extension_attributes": {
+        "increment_id": "",
+        "vat_is_valid": "",
+        "vat_request_id": "",
+        "vat_request_date": "",
+        "vat_request_success": ""
+    }
+}
